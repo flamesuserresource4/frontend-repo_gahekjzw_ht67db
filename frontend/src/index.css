@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --bg: 247 245 255; }
+html { scroll-behavior: smooth; }
+body { background: #0B1220; }
